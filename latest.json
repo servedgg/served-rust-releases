@@ -1,11 +1,11 @@
 {
-    "name":"v0.1.5",
+    "name":"v0.1.6",
     "notes":"Test version",
-    "pub_date":"2020-06-22T19:25:57Z",
+    "pub_date":"2022-03-10T00:00:00Z",
     "platforms": {
         "win64": {
-            "signature":"",
-            "url":"https://github.com/servedgg/served-client-rust-releases/releases/download/v0.1.5/served-rust.x64.msi.zip"
+            "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDg3MjJFRTQzMjMxRjEwQQpSV1FLOFRFeTVDNXlDSWJFdTZqV0c1Wkh0VUlXMVJxVCsvOUMzbHpyUE5nbVp6Kzd4NDNpNWRnawo=",
+            "url":"https://github.com/servedgg/served-rust-releases/releases/download/v0.1.6/served-rust.x64.msi.zip"
         }
     }
 }

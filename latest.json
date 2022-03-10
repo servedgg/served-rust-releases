@@ -1,0 +1,11 @@
+{
+    "name":"v0.1.5",
+    "notes":"Test version",
+    "pub_date":"2020-06-22T19:25:57Z",
+    "platforms": {
+        "win64": {
+            "signature":"",
+            "url":"https://github.com/servedgg/served-client-rust-releases/releases/download/v0.1.5/served-rust.x64.msi.zip"
+        }
+    }
+}
